@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Allow cleartext traffic for your domain (e.g., for HTTP requests) -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">16.170.143.63</domain> <!-- Use your domain or IP -->
+    </domain-config>
+</network-security-config>
