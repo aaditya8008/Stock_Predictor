@@ -8,7 +8,7 @@ The project consists of three major components:
 
 - **Android Application (Kotlin + Jetpack Compose)** for stock search and prediction visualization
 - **FastAPI Backend** for machine learning inference and stock prediction APIs
-- **React Dashboard** for stock analytics and visualization
+- **React Dashboard** for stock serch, analytics and visualization
 
 The system uses a **Random Forest Regression** model trained on historical stock market data fetched using Yahoo Finance.
 
